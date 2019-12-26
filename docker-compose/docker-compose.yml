@@ -1,0 +1,10 @@
+version: 3
+services:
+  gateway:
+    image: sfl/gateway-portal:0.0.1
+    ports:
+      - "9001:9001"
+  discovery:
+    image: sfl/eureka-server
+
+
