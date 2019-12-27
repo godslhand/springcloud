@@ -1,4 +1,4 @@
-version: 3
+version: '3'
 services:
   gateway:
     image: sfl/gateway-portal:0.0.1
@@ -6,5 +6,7 @@ services:
       - "9001:9001"
   discovery:
     image: sfl/eureka-server
+    ports:
+      - "9000:9000"
 
 
