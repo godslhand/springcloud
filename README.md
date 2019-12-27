@@ -1,7 +1,7 @@
 # springcloud
-my demo
-cd 进子工程
-mvn clean package docker:build
+#### my demo 
+cd 进子工程 <br/>
+mvn clean package docker:build <br/>
 
-cd docker-compose
-mvn docker-compose up
+cd docker-compose <br/>
+mvn docker-compose up <br/>
