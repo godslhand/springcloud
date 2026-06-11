@@ -1,0 +1,33 @@
+{
+    "spider": "https://你的仓库地址/custom_spider.jar;md5;fb49d24e47e56f7a1494c2471057ac05",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "sites": [
+        {
+            "key": "csp_hhkan",
+            "name": "好好看",
+            "type": 3,
+            "api": "csp_Hhkan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 1
+        }
+    ],
+    "lives": [],
+    "parses": [
+        {
+            "name": "默认解析",
+            "type": 0,
+            "url": "",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+        }
+    ],
+    "flags": [
+        "好好看",
+        "蓝光",
+        "XL线路",
+        "SB线路"
+    ]
+}
