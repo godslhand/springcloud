@@ -13,15 +13,11 @@
             "playerType": 1
         }
     ],
-    "lives": [],
     "parses": [
         {
             "name": "默认解析",
             "type": 0,
-            "url": "",
-            "header": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-            }
+            "url": "https://j.xmflv.com/?url="
         }
     ],
     "flags": [
