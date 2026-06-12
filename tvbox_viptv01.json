@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/custom_spider.jar",
+    "spider": "https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/custom_spider.jar;md5;100161371b3fe7edaf72245e780b3d41",
     "sites": [
         {
             "key": "csp_viptv01",
@@ -8,8 +8,7 @@
             "api": "csp_Viptv01",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/custom_spider.jar"
+            "filterable": 1
         }
     ],
     "parses": [
