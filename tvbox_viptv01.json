@@ -1,0 +1,29 @@
+{
+    "spider": "https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/custom_spider.jar;md5;3919e8847d40d84f7fd72a385c9c1034",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "sites": [
+        {
+            "key": "csp_viptv01",
+            "name": "TVB云播",
+            "type": 3,
+            "api": "csp_Viptv01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 1
+        }
+    ],
+    "parses": [
+        {
+            "name": "默认解析",
+            "type": 0,
+            "url": "https://j.xmflv.com/?url="
+        }
+    ],
+    "flags": [
+        "TVB云播",
+        "极速主力",
+        "国内高速",
+        "海外线路"
+    ]
+}
