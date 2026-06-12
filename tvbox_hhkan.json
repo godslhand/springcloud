@@ -1,5 +1,5 @@
 {
-    "spider": "https://你的仓库地址/custom_spider.jar;md5;fb49d24e47e56f7a1494c2471057ac05",
+    "spider": "https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/custom_spider.jar;md5;fb49d24e47e56f7a1494c2471057ac05",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
