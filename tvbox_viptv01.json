@@ -10,16 +10,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;9187363de422780f79884b1218143ce0"
-        },
-        {
-            "key": "csp_bubu",
-            "name": "布布追剧",
-            "type": 3,
-            "api": "csp_Bubu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;9187363de422780f79884b1218143ce0"
         }
     ],
     "parses": [
