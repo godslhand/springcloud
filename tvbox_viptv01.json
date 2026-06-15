@@ -1,5 +1,5 @@
 {
-    "spider": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;e3a49d705e9821f193f990e922791e33",
+    "spider": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;e34eb4da744d19c6f318b212216f3a9e",
     "sites": [
         {
             "key": "csp_viptv01",
@@ -9,7 +9,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;e3a49d705e9821f193f990e922791e33"
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;e34eb4da744d19c6f318b212216f3a9e"
+        },
+        {
+            "key": "csp_bubu",
+            "name": "布布追剧",
+            "type": 3,
+            "api": "csp_Bubu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;e34eb4da744d19c6f318b212216f3a9e"
         }
     ],
     "parses": [
