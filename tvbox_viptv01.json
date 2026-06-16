@@ -1,5 +1,5 @@
 {
-    "spider": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;c273fab1ab6219769d5f213d6d7f3dec",
+    "spider": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;4407713585b8547e4a873d5870f3ed3b",
     "sites": [
         {
             "key": "csp_viptv01",
@@ -9,7 +9,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;c273fab1ab6219769d5f213d6d7f3dec"
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;4407713585b8547e4a873d5870f3ed3b"
         },
         {
             "key": "csp_hhkan",
@@ -19,7 +19,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;c273fab1ab6219769d5f213d6d7f3dec"
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/godslhand/springcloud/refs/heads/master/test_spider.jar;md5;4407713585b8547e4a873d5870f3ed3b"
         }
     ],
     "parses": [
